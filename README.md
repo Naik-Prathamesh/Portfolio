@@ -7,8 +7,7 @@ This is a very simple, but elegant responsive portfolio template built using pla
 - [Features](#features)
 - [Live Preview](#live-preview)
 - [Usage](#usage)
-- [Recent Updates](#recent-updates)
-- [License](#license)
+
 
 ## Features
 
@@ -26,7 +25,7 @@ To use this template, follow these steps:
 
 1. **Clone the Repository**: 
     ```bash
-    git clone https://github.com/hhlitval/simple-portfolio-template.git
+    git clone https://github.com/Naik-Prathamesh/Portfolio
     ```
 2. **Customization**:
    - Update `index.html` with your information.
