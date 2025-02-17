@@ -32,6 +32,6 @@ To use this template, follow these steps:
    - Modify `style.css` for custom styles.
    - 
 3. **Deployment**:
-   - Host the project on a server that supports PHP for email functionality.
+   - Host the project with Vercel.
    - **If hosting on GitHub Pages, note that email handling will not work, since GitHub Pages is a static hosting service**.
 
